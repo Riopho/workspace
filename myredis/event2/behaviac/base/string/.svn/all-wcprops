@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/tw/!svn/ver/35050/proj_server/trunk/dep/behaviac/include/behaviac/base/string
+END
+pathid.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/tw/!svn/ver/35050/proj_server/trunk/dep/behaviac/include/behaviac/base/string/pathid.h
+END
+extensionconfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/tw/!svn/ver/35050/proj_server/trunk/dep/behaviac/include/behaviac/base/string/extensionconfig.h
+END
+valuetostring.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/tw/!svn/ver/35050/proj_server/trunk/dep/behaviac/include/behaviac/base/string/valuetostring.h
+END
+formatstringmember.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/tw/!svn/ver/35050/proj_server/trunk/dep/behaviac/include/behaviac/base/string/formatstringmember.h
+END
+stringutils.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/tw/!svn/ver/35050/proj_server/trunk/dep/behaviac/include/behaviac/base/string/stringutils.h
+END
+valuefromstring.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/tw/!svn/ver/35050/proj_server/trunk/dep/behaviac/include/behaviac/base/string/valuefromstring.h
+END

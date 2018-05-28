@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/tw/!svn/ver/35050/proj_server/trunk/dep/behaviac/include/behaviac/base
+END
+swapbytebase.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/tw/!svn/ver/35050/proj_server/trunk/dep/behaviac/include/behaviac/base/swapbytebase.h
+END
+base.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/tw/!svn/ver/35050/proj_server/trunk/dep/behaviac/include/behaviac/base/base.h
+END
+smartptr.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/tw/!svn/ver/35050/proj_server/trunk/dep/behaviac/include/behaviac/base/smartptr.h
+END
+workspace.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/tw/!svn/ver/35050/proj_server/trunk/dep/behaviac/include/behaviac/base/workspace.h
+END
+swapbyte.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/tw/!svn/ver/35050/proj_server/trunk/dep/behaviac/include/behaviac/base/swapbyte.h
+END
+dynamictypefactory.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/tw/!svn/ver/35050/proj_server/trunk/dep/behaviac/include/behaviac/base/dynamictypefactory.h
+END
+convertutf.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/tw/!svn/ver/35050/proj_server/trunk/dep/behaviac/include/behaviac/base/convertutf.h
+END
+dynamictypefactoryutils.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/tw/!svn/ver/35050/proj_server/trunk/dep/behaviac/include/behaviac/base/dynamictypefactoryutils.h
+END
+swapbytehelpers.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/tw/!svn/ver/35050/proj_server/trunk/dep/behaviac/include/behaviac/base/swapbytehelpers.h
+END
+md5.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/tw/!svn/ver/35050/proj_server/trunk/dep/behaviac/include/behaviac/base/md5.h
+END
+dynamictype.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/tw/!svn/ver/35050/proj_server/trunk/dep/behaviac/include/behaviac/base/dynamictype.h
+END

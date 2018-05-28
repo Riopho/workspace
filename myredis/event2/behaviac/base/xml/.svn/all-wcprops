@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/tw/!svn/ver/35050/proj_server/trunk/dep/behaviac/include/behaviac/base/xml
+END
+ixml.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/tw/!svn/ver/35050/proj_server/trunk/dep/behaviac/include/behaviac/base/xml/ixml.h
+END
+xmlserializer.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/tw/!svn/ver/35050/proj_server/trunk/dep/behaviac/include/behaviac/base/xml/xmlserializer.h
+END
+xmlparser.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/tw/!svn/ver/35050/proj_server/trunk/dep/behaviac/include/behaviac/base/xml/xmlparser.h
+END
+readonlyxml.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/tw/!svn/ver/35050/proj_server/trunk/dep/behaviac/include/behaviac/base/xml/readonlyxml.h
+END
+xml.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/tw/!svn/ver/35050/proj_server/trunk/dep/behaviac/include/behaviac/base/xml/xml.h
+END
+base64.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/tw/!svn/ver/35050/proj_server/trunk/dep/behaviac/include/behaviac/base/xml/base64.h
+END
+xmlinclude.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/tw/!svn/ver/35050/proj_server/trunk/dep/behaviac/include/behaviac/base/xml/xmlinclude.h
+END

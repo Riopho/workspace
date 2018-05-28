@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/tw/!svn/ver/35050/proj_server/trunk/dep/behaviac/include/behaviac/base/core/string
+END
+formatstring.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/tw/!svn/ver/35050/proj_server/trunk/dep/behaviac/include/behaviac/base/core/string/formatstring.h
+END
+join.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/tw/!svn/ver/35050/proj_server/trunk/dep/behaviac/include/behaviac/base/core/string/join.h
+END
+repeat.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/tw/!svn/ver/35050/proj_server/trunk/dep/behaviac/include/behaviac/base/core/string/repeat.h
+END
+stringid.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/tw/!svn/ver/35050/proj_server/trunk/dep/behaviac/include/behaviac/base/core/string/stringid.h
+END

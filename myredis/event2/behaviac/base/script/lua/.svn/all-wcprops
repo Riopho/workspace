@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/tw/!svn/ver/35050/proj_server/trunk/dep/behaviac/include/behaviac/base/script/lua
+END
+lauxlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/tw/!svn/ver/35050/proj_server/trunk/dep/behaviac/include/behaviac/base/script/lua/lauxlib.h
+END
+lua.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/tw/!svn/ver/35050/proj_server/trunk/dep/behaviac/include/behaviac/base/script/lua/lua.h
+END
+luaconf.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/tw/!svn/ver/35050/proj_server/trunk/dep/behaviac/include/behaviac/base/script/lua/luaconf.h
+END
+lualib.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/tw/!svn/ver/35050/proj_server/trunk/dep/behaviac/include/behaviac/base/script/lua/lualib.h
+END

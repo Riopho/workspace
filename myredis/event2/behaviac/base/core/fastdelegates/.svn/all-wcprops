@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/tw/!svn/ver/35050/proj_server/trunk/dep/behaviac/include/behaviac/base/core/fastdelegates
+END
+fastdelegatebind.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/tw/!svn/ver/35050/proj_server/trunk/dep/behaviac/include/behaviac/base/core/fastdelegates/fastdelegatebind.h
+END
+fastdelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/tw/!svn/ver/35050/proj_server/trunk/dep/behaviac/include/behaviac/base/core/fastdelegates/fastdelegate.h
+END

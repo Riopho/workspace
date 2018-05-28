@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/tw/!svn/ver/35050/proj_server/trunk/dep/behaviac/include/behaviac/base/core/memory
+END
+memalloc.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/tw/!svn/ver/35050/proj_server/trunk/dep/behaviac/include/behaviac/base/core/memory/memalloc.h
+END
+mempoollinked.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/tw/!svn/ver/35050/proj_server/trunk/dep/behaviac/include/behaviac/base/core/memory/mempoollinked.h
+END
+stl_allocator.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/tw/!svn/ver/35050/proj_server/trunk/dep/behaviac/include/behaviac/base/core/memory/stl_allocator.h
+END
+memory.inl
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/tw/!svn/ver/35050/proj_server/trunk/dep/behaviac/include/behaviac/base/core/memory/memory.inl
+END
+memheapalloc.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/tw/!svn/ver/35050/proj_server/trunk/dep/behaviac/include/behaviac/base/core/memory/memheapalloc.h
+END
+memory.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/tw/!svn/ver/35050/proj_server/trunk/dep/behaviac/include/behaviac/base/core/memory/memory.h
+END
+mempool.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/tw/!svn/ver/35050/proj_server/trunk/dep/behaviac/include/behaviac/base/core/memory/mempool.h
+END
+typetraits.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/tw/!svn/ver/35050/proj_server/trunk/dep/behaviac/include/behaviac/base/core/memory/typetraits.h
+END

@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/tw/!svn/ver/35050/proj_server/trunk/dep/behaviac/include/behaviac/base/core
+END
+sharedptr.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/tw/!svn/ver/35050/proj_server/trunk/dep/behaviac/include/behaviac/base/core/sharedptr.h
+END
+delegatetask.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/tw/!svn/ver/35050/proj_server/trunk/dep/behaviac/include/behaviac/base/core/delegatetask.h
+END
+baseclass.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/tw/!svn/ver/35050/proj_server/trunk/dep/behaviac/include/behaviac/base/core/baseclass.h
+END
+singleton.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/tw/!svn/ver/35050/proj_server/trunk/dep/behaviac/include/behaviac/base/core/singleton.h
+END
+task.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/tw/!svn/ver/35050/proj_server/trunk/dep/behaviac/include/behaviac/base/core/task.h
+END
+types.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/tw/!svn/ver/35050/proj_server/trunk/dep/behaviac/include/behaviac/base/core/types.h
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/tw/!svn/ver/35050/proj_server/trunk/dep/behaviac/include/behaviac/base/core/config.h
+END
+msc_stdint.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/tw/!svn/ver/35050/proj_server/trunk/dep/behaviac/include/behaviac/base/core/msc_stdint.h
+END
+factory.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/tw/!svn/ver/35050/proj_server/trunk/dep/behaviac/include/behaviac/base/core/factory.h
+END
+crc.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/tw/!svn/ver/35050/proj_server/trunk/dep/behaviac/include/behaviac/base/core/crc.h
+END
+staticassert.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/tw/!svn/ver/35050/proj_server/trunk/dep/behaviac/include/behaviac/base/core/staticassert.h
+END
+noncopyable.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/tw/!svn/ver/35050/proj_server/trunk/dep/behaviac/include/behaviac/base/core/noncopyable.h
+END
+compiler.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/tw/!svn/ver/35050/proj_server/trunk/dep/behaviac/include/behaviac/base/core/compiler.h
+END
+timer.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/tw/!svn/ver/35050/proj_server/trunk/dep/behaviac/include/behaviac/base/core/timer.h
+END
+arbdelegates.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/tw/!svn/ver/35050/proj_server/trunk/dep/behaviac/include/behaviac/base/core/arbdelegates.h
+END
+assert_t.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/tw/!svn/ver/35050/proj_server/trunk/dep/behaviac/include/behaviac/base/core/assert_t.h
+END
+system.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/tw/!svn/ver/35050/proj_server/trunk/dep/behaviac/include/behaviac/base/core/system.h
+END
+version.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/tw/!svn/ver/35050/proj_server/trunk/dep/behaviac/include/behaviac/base/core/version.h
+END

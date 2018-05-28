@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/tw/!svn/ver/35050/proj_server/trunk/dep/behaviac/include/behaviac/base/core/logging
+END
+consoleout.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/tw/!svn/ver/35050/proj_server/trunk/dep/behaviac/include/behaviac/base/core/logging/consoleout.h
+END
+log.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/tw/!svn/ver/35050/proj_server/trunk/dep/behaviac/include/behaviac/base/core/logging/log.h
+END

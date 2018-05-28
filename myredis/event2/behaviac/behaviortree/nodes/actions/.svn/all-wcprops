@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/tw/!svn/ver/35050/proj_server/trunk/dep/behaviac/include/behaviac/behaviortree/nodes/actions
+END
+waitforsignal.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/tw/!svn/ver/35050/proj_server/trunk/dep/behaviac/include/behaviac/behaviortree/nodes/actions/waitforsignal.h
+END
+noop.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/tw/!svn/ver/35050/proj_server/trunk/dep/behaviac/include/behaviac/behaviortree/nodes/actions/noop.h
+END
+compute.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/tw/!svn/ver/35050/proj_server/trunk/dep/behaviac/include/behaviac/behaviortree/nodes/actions/compute.h
+END
+action.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/tw/!svn/ver/35050/proj_server/trunk/dep/behaviac/include/behaviac/behaviortree/nodes/actions/action.h
+END
+waitframes.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/tw/!svn/ver/35050/proj_server/trunk/dep/behaviac/include/behaviac/behaviortree/nodes/actions/waitframes.h
+END
+wait.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/tw/!svn/ver/35050/proj_server/trunk/dep/behaviac/include/behaviac/behaviortree/nodes/actions/wait.h
+END
+assignment.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/tw/!svn/ver/35050/proj_server/trunk/dep/behaviac/include/behaviac/behaviortree/nodes/actions/assignment.h
+END
